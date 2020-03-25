@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/apex/bo/UserBOImpl.java=UTF-8
+encoding//src/main/java/com/apex/bo/UserBOImplService.java=UTF-8
+encoding//src/main/java/com/apex/bo/UserBOImplServiceLocator.java=UTF-8
+encoding//src/main/java/com/apex/bo/UserBOImplSoapBindingStub.java=UTF-8
+encoding//src/main/java/com/apex/vo/Bank.java=UTF-8
+encoding//src/main/java/com/apex/vo/Contact.java=UTF-8
+encoding//src/main/java/com/apex/vo/User.java=UTF-8
+encoding//src/main/java/com/apex/vo/UserInfo.java=UTF-8
